@@ -1,6 +1,6 @@
 # dnnComparison: Deep Feedforward Network vs K-Nearest Neighbours on MNIST
 
-This project was part of my Extended Project Qualification (EPQ) exploring the performance of neural networks against traditional machine learning models, using the medium of handwritten digit recognition. 
+This project was part of my Extended Project Qualification (EPQ) exploring the performance of deep neural networks against traditional machine learning models, using the medium of handwritten digit recognition. 
 Find the paper here: https://drive.google.com/file/d/1zSHU0O1X7Z1dGi1xpU2J_2SEH-dbQnRz/view?usp=sharing
 
 mnistloader.py is used to convert MNIST bitmaps into the correct form. This was taken from Michael Nielsen's github repository: https://github.com/mnielsen/neural-networks-and-deep-learning
