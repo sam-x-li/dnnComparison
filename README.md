@@ -14,7 +14,7 @@ This project was part of my Extended Project Qualification (EPQ) exploring the p
 
 ## Sample Results
 
-```bash
+```
 Training set size (n): 50 Accuracy: 0.5778 Time taken/s: 0.5811195373535156 Testing set size: 10000 Number of successes: 5778
 Training set size (n): 150 Accuracy: 0.652 Time taken/s: 2.432004928588867 Testing set size: 10000 Number of successes: 6520
 Training set size (n): 500 Accuracy: 0.7749 Time taken/s: 16.899497270584106 Testing set size: 10000 Number of successes: 7749
