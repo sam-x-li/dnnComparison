@@ -16,6 +16,23 @@ mnistloader.py is used to convert MNIST bitmaps into the correct form. This was 
 
 ---
 
+## Installation 
+```bash
+git clone https://github.com/sam-x-li/dnnComparison.git
+cd dnnComparison
+pip install -r requirements.txt
+```
+
+
+## Usage
+Run kNN and dNN tests individually:
+```bash
+cd src
+python DNNTester.py
+python KNNTester.py
+```
+---
+
 ## Sample Results
 
 ```
