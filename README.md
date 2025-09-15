@@ -1,6 +1,7 @@
 # dnnComparison: Deep Feedforward Network vs K-Nearest Neighbours on MNIST
 
 This project was part of my Extended Project Qualification (EPQ) exploring the performance of neural networks against traditional machine learning models, using the medium of handwritten digit recognition. 
+Find the paper here: https://drive.google.com/file/d/1zSHU0O1X7Z1dGi1xpU2J_2SEH-dbQnRz/view?usp=sharing
 
 --- 
 
@@ -9,6 +10,7 @@ This project was part of my Extended Project Qualification (EPQ) exploring the p
 - Compared time taken and accuracy while varying the size of the training set
 - Found that kNN consistently had higher accuracy (p < 0.05, paired t-test)
 - KNN was faster for smaller training set sizes (n <= 150), while the dNN was faster for n > 150.
+- Supported with a literature review
 
 ---
 
@@ -20,6 +22,8 @@ Training set size (n): 150 Accuracy: 0.652 Time taken/s: 2.432004928588867 Testi
 Training set size (n): 500 Accuracy: 0.7749 Time taken/s: 16.899497270584106 Testing set size: 10000 Number of successes: 7749
 Training set size (n): 1000 Accuracy: 0.7804 Time taken/s: 36.08581876754761 Testing set size: 10000 Number of successes: 7804
 ```
+
+---
 
 ## Images
 
