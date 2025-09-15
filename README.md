@@ -10,6 +10,17 @@ This project was part of my Extended Project Qualification (EPQ) exploring the p
 - Found that kNN consistently had higher accuracy (p < 0.05, paired t-test)
 - KNN was faster for smaller training set sizes (n <= 150), while the dNN was faster for n > 150.
 
+---
+
+## Sample Results
+
+```bash
+Training set size (n): 50 Accuracy: 0.5778 Time taken/s: 0.5811195373535156 Testing set size: 10000 Number of successes: 5778
+Training set size (n): 150 Accuracy: 0.652 Time taken/s: 2.432004928588867 Testing set size: 10000 Number of successes: 6520
+Training set size (n): 500 Accuracy: 0.7749 Time taken/s: 16.899497270584106 Testing set size: 10000 Number of successes: 7749
+Training set size (n): 1000 Accuracy: 0.7804 Time taken/s: 36.08581876754761 Testing set size: 10000 Number of successes: 7804
+```
+
 ## Images
 
 <img width="1093" height="657" alt="Mean Accuracy Bar" src="https://github.com/user-attachments/assets/760a6483-5a2a-45f2-9f91-e8d68a222def" />
